@@ -1,4 +1,4 @@
-# 🚗 TORPİDO
+<img width="1180" alt="Ekran Resmi 2025-03-01 17 15 40 (2)" src="https://github.com/user-attachments/assets/05103a7a-2635-4796-98aa-1dbff305f38d" /># 🚗 TORPİDO
 
 <p align="center">
   <img src="web/icons/Adsız tasarım (7).png" alt="Torpido Logo" width="250"/>
@@ -148,15 +148,17 @@ Uygulama, araç sahiplerinin bakım masraflarını takip etmesine, yaklaşan mua
   <em>Uygulama ekran görüntüleri yakında eklenecektir!</em>
 </p>
 
-<!-- Ekran görüntüleri mevcut olduğunda aşağıdaki gibi eklenebilir:
+Ekran görüntüleri mevcut olduğunda aşağıdaki gibi eklenebilir:
 
 <p align="center">
-  <img src="assets/screenshots/screenshot1.png" alt="Ana Ekran" width="200"/>
-  <img src="assets/screenshots/screenshot2.png" alt="Araç Detayları" width="200"/>
-  <img src="assets/screenshots/screenshot3.png" alt="Bakım Kaydı" width="200"/>
-  <img src="assets/screenshots/screenshot4.png" alt="Test Sonuçları" width="200"/>
+<a href="https://hizliresim.com/qlah6dv"><img src="https://i.hizliresim.com/qlah6dv.png" alt="Resim Yükle"></a>  <img src="assets/screenshots/screenshot2.png" alt="Araç Detayları" width="200"/>
+<img width="1180" alt="Ekran Resmi 2025-03-01 17 14 15 (2)" src="https://github.com/user-attachments/assets/c67e8e0f-ab9a-466b-a59e-4fca8bc062b5" />
+<img width="1680" alt="Ekran Resmi 2025-03-01 17 16 10" src="https://github.com/user-attachments/assets/f9c21ce9-c55a-46c0-8516-d6cccb631ee1" />
+## 🔗 FİGMA DETAYLI TASARIM LİNK
+   https://www.figma.com/design/rp1E9gHk3BO02Rmnw6XhHF/Untitled?node-id=0-1&t=gsgQtlU7L6C6QmuM-1
+
 </p>
--->
+
 
 ---
 
