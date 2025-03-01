@@ -1,4 +1,5 @@
 <img width="1180" alt="Ekran Resmi 2025-03-01 17 15 40 (2)" src="https://github.com/user-attachments/assets/05103a7a-2635-4796-98aa-1dbff305f38d" />
+---
 # 🚗 TORPİDO
 
 <p align="center">
@@ -145,11 +146,6 @@ Uygulama, araç sahiplerinin bakım masraflarını takip etmesine, yaklaşan mua
 
 ## 🖼️ Ekran Görüntüleri
 
-<p align="center">
-  <em>Uygulama ekran görüntüleri yakında eklenecektir!</em>
-</p>
-
-Ekran görüntüleri mevcut olduğunda aşağıdaki gibi eklenebilir:
 
 <p align="center">
 <img width="1180" alt="Ekran Resmi 2025-03-01 17 14 15 (2)" src="https://github.com/user-attachments/assets/c67e8e0f-ab9a-466b-a59e-4fca8bc062b5" />
