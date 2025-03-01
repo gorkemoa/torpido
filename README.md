@@ -446,41 +446,14 @@ AI özelliğimiz, aracınızın bakım geçmişi, muayene sonuçları ve genel k
 
 ---
 
-## 🗺️ Yol Haritası
-
-Torpido uygulaması için gelecek planlarımızı sizlerle paylaşmak istiyoruz:
-
-### Yakın Dönem (1-3 Ay)
-
-- [ ] **Yakıt Tüketimi Takibi** - Yakıt alımlarını ve tüketim istatistiklerini takip edebilme
-- [ ] **İstatistik Gösterge Paneli** - Tüm verilerinizi tek ekranda görüntüleyebileceğiniz gelişmiş dashboard
-- [ ] **Servis Entegrasyonu** - Yetkili servislerle randevu planlama
-- [ ] **İngilizce Dil Desteği** - Uluslararası kullanıcılar için tam çeviri
-
-### Orta Dönem (3-6 Ay)
-
-- [ ] **Bulut Yedekleme** - Verilerinizi güvenle bulutta saklama
-- [ ] **Cihazlar Arası Senkronizasyon** - Verilerinizi tüm cihazlarınızda senkronize etme
-- [ ] **Gelişmiş Raporlama** - Detaylı PDF raporları oluşturma ve paylaşma
-- [ ] **OBD-II Entegrasyonu** - Bluetooth OBD-II adaptörlerinden veri okuma
-- [ ] **Araç Sigorta Takibi** - Sigorta poliçelerinizi yönetme ve hatırlatmalar alma
-
-### Uzun Dönem (6+ Ay)
-
-- [ ] **Sosyal Paylaşım** - Diğer araç sahipleriyle deneyimlerinizi paylaşma
-- [ ] **Servis Kalite Değerlendirmesi** - Servis deneyimlerinizi puanlama ve yorumlama
-- [ ] **AR Diagnostik** - Arttırılmış gerçeklik ile araç sorunlarını tanımlama
-- [ ] **Web Sürümü** - Tarayıcı üzerinden erişilebilen web uygulaması
-- [ ] **Servis Marketplace** - Yakınınızdaki servisleri bulma ve fiyat karşılaştırma
-
 ### Önceliklendirilmiş Sürüm Bilgileri
 
-| Sürüm | Tarih | Açıklama |
+| Sürüm |  | Açıklama |
 |-------|-------|----------|
-| v1.1.0 | Aralık 2023 | Yakıt takibi, gelişmiş istatistikler |
-| v1.2.0 | Şubat 2024 | Çoklu dil desteği, servis entegrasyonu |
-| v1.5.0 | Mayıs 2024 | Bulut yedekleme, cihazlar arası senkronizasyon |
-| v2.0.0 | Eylül 2024 | OBD-II entegrasyonu, tamamen yenilenmiş arayüz |
+| v1.1.0 |  | Yakıt takibi, gelişmiş istatistikler |
+| v1.2.0 |  | Çoklu dil desteği, servis entegrasyonu |
+| v1.5.0 |  | Bulut yedekleme, cihazlar arası senkronizasyon |
+| v2.0.0 |  | OBD-II entegrasyonu, tamamen yenilenmiş arayüz |
 
 ---
 
