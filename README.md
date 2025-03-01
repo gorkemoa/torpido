@@ -153,8 +153,8 @@ Uygulama, araç sahiplerinin bakım masraflarını takip etmesine, yaklaşan mua
 
 <p align="center">
 <img width="1180" alt="Ekran Resmi 2025-03-01 17 14 15 (2)" src="https://github.com/user-attachments/assets/c67e8e0f-ab9a-466b-a59e-4fca8bc062b5" />
-<img width="1180" alt="Ekran Resmi 2025-03-01 17 14 15 (2)" src="https://github.com/user-attachments/assets/74925031-a0d5-4609-9429-68d861393eaf" />
-<img width="1180" alt="Ekran Resmi 2025-03-01 17 14 15 (2)" src="https://github.com/user-attachments/assets/ef4a19a9-dcaf-45bb-be2d-d213d2a06da5" />
+<img width="400" alt="Ekran Resmi 2025-03-01 17 14 15 (2)" src="https://github.com/user-attachments/assets/74925031-a0d5-4609-9429-68d861393eaf" />
+<img width="400" alt="Ekran Resmi 2025-03-01 17 14 15 (2)" src="https://github.com/user-attachments/assets/ef4a19a9-dcaf-45bb-be2d-d213d2a06da5" />
 <img width="1180" alt="Ekran Resmi 2025-03-01 17 14 15 (2)" src="https://github.com/user-attachments/assets/9488ee03-28d2-498b-a76b-2eb4a0c04d6c" />
 
 <img width="1680" alt="Ekran Resmi 2025-03-01 17 16 10" src="https://github.com/user-attachments/assets/f9c21ce9-c55a-46c0-8516-d6cccb631ee1" />
