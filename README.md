@@ -1,5 +1,10 @@
 <img width="1180" alt="Ekran Resmi 2025-03-01 17 15 40 (2)" src="https://github.com/user-attachments/assets/05103a7a-2635-4796-98aa-1dbff305f38d" />
+
+
+
 ---
+
+
 # 🚗 TORPİDO
 
 <p align="center">
