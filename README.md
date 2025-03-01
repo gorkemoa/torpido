@@ -153,8 +153,9 @@ Uygulama, araç sahiplerinin bakım masraflarını takip etmesine, yaklaşan mua
 
 <p align="center">
 <img width="1180" alt="Ekran Resmi 2025-03-01 17 14 15 (2)" src="https://github.com/user-attachments/assets/c67e8e0f-ab9a-466b-a59e-4fca8bc062b5" />
-![simulator_screenshot_7E260214-D570-490D-B5C4-6A93BA29EE16 1](https://github.com/user-attachments/assets/5dd5b7f7-fcda-4742-a561-568d29f99aa8)
-![simulator_screenshot_BBEBA5FD-E3DE-42FD-BFE9-A35DF7BDB053 1](https://github.com/user-attachments/assets/2e434e27-eb2d-49f9-be77-ccaaed720e70)
+![simulator_screenshot_696FEFE6-677B-4133-B232-0517A9F85DD4 1](https://github.com/user-attachments/assets/80493574-398b-41fb-9df7-d86039928d38)
+![simulator_screenshot_7E260214-D570-490D-B5C4-6A93BA29EE16 1](https://github.com/user-attachments/assets/7b7aea42-7762-4ceb-80a7-caf9ff3d92f2)
+![simulator_screenshot_2F32D450-723A-4793-9DE5-DAB794E4330A 1](https://github.com/user-attachments/assets/a22ba063-c9b9-4e27-a2ec-bc2ae25442f0)
 <img width="1680" alt="Ekran Resmi 2025-03-01 17 16 10" src="https://github.com/user-attachments/assets/f9c21ce9-c55a-46c0-8516-d6cccb631ee1" />
 ## 🔗 FİGMA DETAYLI TASARIM LİNK
    https://www.figma.com/design/rp1E9gHk3BO02Rmnw6XhHF/Untitled?node-id=0-1&t=gsgQtlU7L6C6QmuM-1
